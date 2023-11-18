@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/LMA-React-App/static/css/main.ae42ac5f.css",
-    "main.js": "/LMA-React-App/static/js/main.0329f357.js",
+    "main.js": "/LMA-React-App/static/js/main.8f58b620.js",
     "index.html": "/LMA-React-App/index.html",
     "main.ae42ac5f.css.map": "/LMA-React-App/static/css/main.ae42ac5f.css.map",
-    "main.0329f357.js.map": "/LMA-React-App/static/js/main.0329f357.js.map"
+    "main.8f58b620.js.map": "/LMA-React-App/static/js/main.8f58b620.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.0329f357.js"
+    "static/js/main.8f58b620.js"
   ]
 }
