@@ -1,6 +1,6 @@
 {
-  "name": "lma",
-  "private": true,
+  "name": "lma-landing-webapp",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -11,7 +11,7 @@
     "react-scripts": "^5.0.1",
     "smooth-scroll": "^16.1.3"
   },
-  "homepage": "https://nipunarora-eGov.github.io/lma/",
+  "homepage": "https://nipunarora-eGov.github.io/lma-landing-webapp/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
