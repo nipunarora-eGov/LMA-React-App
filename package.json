@@ -1,6 +1,6 @@
 {
   "name": "LMA-React-App",
-  "homepage": "www.lawmenalliance.com",
+  "homepage": "lawmenalliance.com",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
